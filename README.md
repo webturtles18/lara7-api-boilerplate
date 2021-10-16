@@ -1,2 +1,2 @@
 # laravel-api-boilerplate
-Laravel 7 API boiler plate
+Laravel 7 API boilerplate
